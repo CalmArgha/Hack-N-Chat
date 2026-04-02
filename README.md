@@ -1,11 +1,12 @@
 # Who am I?
 I am **Argha**, a student from India. I like to code things! HackNChat is just another example!
 
+# Hack-N-Chat
+
 <p align="center">
   <img src="./assets/hacknnchat-banner.svg" alt="HackNChat" width="100%"/>
 </p>
 
-# Hack-N-Chat
 Do you want to level up your CTF game? HackNChat is here for just that!
 
 # What is it?
